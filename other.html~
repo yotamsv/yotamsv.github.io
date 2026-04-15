@@ -1,0 +1,31 @@
+<!--#include virtual="/include/redstyle/declare.html" -->
+
+Other Links
+
+<!--#include virtual="/include/redstyle/styleleftcol.html" -->
+
+<!--#include virtual="/include/redstyle/header.html" -->
+
+<!--#include virtual="/include/redstyle/leftsidecolstart.html" -->
+
+<!--#include virtual="/templates/twocol/index_leftcol.html" -->
+
+<!--#include virtual="/include/redstyle/leftsidecolend.html" -->
+
+<!--#include virtual="/include/redstyle/rightsidecolstart.html" -->
+
+<!--#include virtual="/templates/twocol/index_rightcol.html" -->
+
+<!--#include virtual="/include/redstyle/rightsidecolend.html" -->
+
+<!--#include virtual="/include/redstyle/begincontent.html" -->
+
+<!--#include virtual="other_body.html" -->
+
+<!--#include virtual="/include/redstyle/endcontent.html" -->
+
+<!--#include virtual="/include/redstyle/endleftsidecol.html" -->
+
+<!--#include virtual="/include/redstyle/footer.html" -->
+
+<!--#include virtual="/include/redstyle/bottom.html" -->
